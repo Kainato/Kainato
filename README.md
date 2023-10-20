@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Caio Araújo</h1>
-<h3 align="center">Um desenvolvedor pleno em flutter e aspirante designer UI/UX</h3>
+<h3 align="center">Sou desenvolvedor pleno em flutter e aspirante designer UI/UX</h3>
 
 - 🌱 Atualmente estou aprendendo **Design UI/UX**
 
