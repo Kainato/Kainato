@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Caio Araújo</h1>
-<h3 align="center">Sou desenvolvedor pleno em flutter e aspirante designer UI/UX</h3>
+<h1 align="center">Olá 👋, eu sou Caio Calado!</h1>
+<h3 align="center">Sou desenvolvedor pleno em flutter</h3>
 
 - 🌱 Atualmente estou aprendendo **Design UI/UX**
 
@@ -11,7 +11,7 @@
 
 - 📄 Conheça minhas experiências [Meu Portfólio](https://kainato.my.canva.site/portfolio)
 
-- 📫 Como falar comigo: [Meu Email](mailto:caiocaladaraujo@gmail.com)
+- 📫 Como falar comigo: [caiocaladaraujo@gmail.com](mailto:caiocaladaraujo@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
