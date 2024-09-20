@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Backend as a Service (BaaS)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kainato?tab=repositories](https://github.com/Kainato?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Kainato?tab=repositories](https://github.com/Kainato?tab=repositories)
 
 - 💬 Pergunte-me sobre **Design UI/UX**
 
