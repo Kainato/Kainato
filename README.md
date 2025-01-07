@@ -4,7 +4,7 @@
 
 Eu sou Caio Calado de Araújo, com 22 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
 Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Sistemas, com uma inclinação especial pelo Design.
-Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos, mas nada que ainda concreto.
+Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos.
 
 <div>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
