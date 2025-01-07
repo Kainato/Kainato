@@ -7,13 +7,10 @@ Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Siste
 Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos.
 
 <div>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </div>
 
 # 📊 Meus Status de Desenvolvimento
@@ -31,22 +28,22 @@ Acredito que o aprendizado contínuo é essencial para acompanhar as transforma�
 <details>
 <summary>Clique aqui para expandir</summary>
 
-| Foto | Linguagem | Familiaridade | Link
-| :----: | :---------: | :-----: | :---------------------:
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> | HTML | 🌕🌕🌑🌑🌑 | https://html.spec.whatwg.org/multipage/
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | CSS | 🌕🌕🌑🌑🌑 | https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="css3" width="40" height="40"/> | Laravel | 🌕🌑🌑🌑🌑 | https://laravel.com/
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/> | PHP | 🌗🌑🌑🌑🌑 | https://www.php.net
-| <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="css3" width="40" height="40"/> | Dart | 🌕🌕🌕🌕🌑 | https://dart.dev/
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="css3" width="40" height="40"/> | Flutter | 🌕🌕🌕🌕🌕 | https://flutter.dev/
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="css3" width="40" height="40"/> | Firebase | 🌕🌕🌕🌑🌑 | https://firebase.google.com/?hl=pt-br
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="css3" width="40" height="40"/> | Git | 🌕🌕🌕🌑🌑 | https://git-scm.com/
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="40" height="40"/> | MySQL | 🌕🌕🌑🌑🌑 | https://www.mysql.com/
-| <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="css3" width="40" height="40"/> | NEXT JS | 🌕🌕🌑🌑🌑 | https://nextjs.org/
-| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" width="40" height="40"/> | Postman | 🌕🌕🌕🌑🌑 | https://postman.com
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> | Python | 🌕🌑🌑🌑🌑 | https://www.python.org
-| <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="css3" width="40" height="40"/> | Adobe XD | 🌕🌗🌑🌑🌑 | https://www.adobe.com/products/xd.html
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" width="40" height="40"/> | Canva | 🌕🌕🌕🌑🌑 | https://www.canva.com/
-| <img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&h=540&q=75&fit=max&auto=format" width="40" height="40"/> | Figma | 🌕🌕🌗🌑🌑 | https://www.figma.com/pt-br/
-| <img src="https://static.wikia.nocookie.net/logopedia/images/2/27/Google_AppSheet_icon.svg/revision/latest/scale-to-width-down/250?cb=20240930225359" width="40" height="40"/> | Appsheet | 🌕🌕🌕🌕🌑 | [https://www.figma.com/pt-br/](https://about.appsheet.com/home/)
+| Foto | Linguagem | Familiaridade |
+| :----: | :---------: | :-----: |
+| <a href="https://en.wikipedia.org/wiki/HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/></a> | HTML | 🌕🌕🌑🌑🌑 
+| <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  | CSS | 🌕🌕🌑🌑🌑
+| <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="css3" width="40" height="40"/></a> | Laravel | 🌕🌑🌑🌑🌑
+| <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/></a>  | PHP | 🌗🌑🌑🌑🌑
+| <a href="https://dart.dev/"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="css3" width="40" height="40"/></a>  | Dart | 🌕🌕🌕🌕🌑
+| <a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="css3" width="40" height="40"/></a>  | Flutter | 🌕🌕🌕🌕🌕
+| <a href="https://firebase.google.com/?hl=pt-br"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="css3" width="40" height="40"/></a>  | Firebase | 🌕🌕🌕🌑🌑
+| <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="css3" width="40" height="40"/></a>  | Git | 🌕🌕🌕🌑🌑
+| <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  | MySQL | 🌕🌕🌑🌑🌑
+| <a href="https://nextjs.org/"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="css3" width="40" height="40"/></a>  | NEXT JS | 🌕🌕🌑🌑🌑
+| <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" width="40" height="40"/></a>  | Postman | 🌕🌕🌕🌑🌑
+| <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/></a>  | Python | 🌕🌑🌑🌑🌑
+| <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="css3" width="40" height="40"/></a>  | Adobe XD | 🌕🌗🌑🌑🌑
+| <a href="https://www.canva.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" width="40" height="40"/></a>  | Canva | 🌕🌕🌕🌑🌑
+| <a href="https://www.figma.com/pt-br/"><img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&h=540&q=75&fit=max&auto=format" width="40" height="40"/></a>  | Figma | 🌕🌕🌗🌑🌑
+| <a href="https://about.appsheet.com/home/"><img src="https://static.wikia.nocookie.net/logopedia/images/2/27/Google_AppSheet_icon.svg/revision/latest/scale-to-width-down/250?cb=20240930225359" width="40" height="40"/></a>  | Appsheet | 🌕🌕🌕🌕🌑
 </details>
