@@ -28,7 +28,7 @@ Acredito que o aprendizado contínuo é essencial para acompanhar as transforma�
 <details>
 <summary>Clique aqui para expandir</summary>
 
-| Foto | Linguagem | Familiaridade |
+| Foto | Linguagem | Nível |
 | :----: | :---------: | :-----: |
 | <a href="https://en.wikipedia.org/wiki/HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/></a> | HTML | 🌕🌕🌑🌑🌑 
 | <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  | CSS | 🌕🌕🌑🌑🌑
