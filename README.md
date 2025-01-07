@@ -1,10 +1,20 @@
 # 👋🏻 Olá Mundo
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
+<img src="https://api.daily.dev/devcards/v2/0g4yCRXZXxrVmk4kqsw1i.png?type=wide&r=frz" width="300" alt="Caio Calado's Dev Card" align="right"/>
 
 Eu sou Caio Calado de Araújo, com 22 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
 Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Sistemas, com uma inclinação especial pelo Design.
 Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos, mas nada que ainda concreto.
+
+<div>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</div>
 
 # 👨🏻‍💻 Minhas habilidades
 
@@ -68,47 +78,9 @@ Tudo que aprendi ao longo desses anos como programador, foram baseados nas neces
   </table>
 </div>
 
-# 🔗 Conecte-se comigo
-
-<div style="overflow-x: auto; white-space: nowrap;">
-  <table style="width: max-content; border-collapse: collapse;">
-    <tr>
-        <td>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo" />
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo" />
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo" />
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" />
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="32" alt="stackoverflow logo" />
-        </td>
-    </tr>
-  </table>
-</div>
-
 # 📊 Minhas Análises
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <table style="width: max-content; border-collapse: collapse;">
-    <tr>
-      <td>
-        <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kainato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200px" alt="ilustração do status do github">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kainato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-      </td>
-      <td>
-        <a href="https://app.daily.dev/caladaraujo"><img src="https://api.daily.dev/devcards/v2/0g4yCRXZXxrVmk4kqsw1i.png?type=wide&r=frz" width="400" alt="Caio Calado's Dev Card"/></a>
-      </td>
-    </tr>
-  </table>
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Kainato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200px" alt="ilustração do status do github">
 
-# 🏆 Troféus GitHub
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kainato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 
