@@ -1,47 +1,114 @@
-<h1 align="center">Olá 👋, eu sou Caio Calado</h1>
-<h3 align="center">Desenvolvedor pleno em Flutter</h3>
+# 👋🏻 Olá Mundo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kainato&label=Profile%20views&color=0e75b6&style=flat" alt="kainato" /> </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
 
-- 🔭 Atualmente estou trabalhando no [TiTa Therapy](https://github.com/Team-TiTa-Therapy)
+Eu sou Caio Calado de Araújo, com 22 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
+Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Sistemas, com uma inclinação especial pelo Design.
+Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos, mas nada que ainda concreto.
 
-- 🌱 Atualmente estou aprendendo **Backend as a Service (BaaS)**
+# 👨🏻‍💻 Minhas habilidades
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Kainato?tab=repositories](https://github.com/Kainato?tab=repositories)
+Tudo que aprendi ao longo desses anos como programador, foram baseados nas necessidades das empresas que já trabalhei. Tenho muito conhecimento nas metodologias ageis e na estruturação de projetos
 
-- 💬 Pergunte-me sobre **Design UI/UX**
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table style="width: max-content; border-collapse: collapse;">
+    <tr>
+      <td>
+        <a  href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+      </td>
+      <td>
+        <a  href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+      </td>
+      <td>
+        <a  href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+      </td>
+      <td>
+        <a  href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
+      </td>
+      <td>
+        <a  href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+      </td>
+      <td>
+        <a  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/032/329/175/small_2x/canva-icon-logo-symbol-free-png.png" alt="Canva" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+      </td>
+      <td>
+        <a  href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="xd" width="40" height="40"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+# 🔗 Conecte-se comigo
 
-<a  href="caiocaladaraujo@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" /></a>
-<a  href="https://linkedin.com/in/caio (kainato) calado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio (kainato) calado" height="30" width="40" /></a>
-<a  href="https://stackoverflow.com/users/15992679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15992679" height="30" width="40" /></a>
-<a  href="https://fb.com/caio calado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caio calado" height="30" width="40" /></a>
-<a  href="https://instagram.com/kainato.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kainato.exe" height="30" width="40" /></a>
-<a  href="https://www.youtube.com/c/@kainato7730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kainato7730" height="30" width="40" /></a>
-</p>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table style="width: max-content; border-collapse: collapse;">
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="32" alt="stackoverflow logo" />
+        </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
+# 📊 Minhas Análises
 
-<a  href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a  href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a  href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a  href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a  href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a  href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-<a  href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a  href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/></a>
-<a  href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a  href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a  href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Canva" width="40" height="40"/></a>
-<a  href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a  href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a  href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="xd" width="40" height="40"/></a></p>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table style="width: max-content; border-collapse: collapse;">
+    <tr>
+      <td>
+        <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kainato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200px" alt="ilustração do status do github">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kainato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+      </td>
+      <td>
+        <a href="https://app.daily.dev/caladaraujo"><img src="https://api.daily.dev/devcards/v2/0g4yCRXZXxrVmk4kqsw1i.png?type=wide&r=frz" width="400" alt="Caio Calado's Dev Card"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-<a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kainato" alt="kainato" /></a> </p>
+# 🏆 Troféus GitHub
+
