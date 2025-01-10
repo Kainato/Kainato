@@ -10,7 +10,7 @@ Minha paixão por criar projetos e programas coisas novas me impulsionou a desen
   <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
   <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
   <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-  <a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30"/></a>
+<!--   <a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30"/></a> -->
   <a href="https://judge.beecrowd.com/pt/profile/1082658"><img src="https://hermes.dio.me/articles/cover/3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg" height="30"/></a>
 </div>
 
