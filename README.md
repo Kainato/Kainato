@@ -1,6 +1,6 @@
 # 👋🏻 Olá Mundo!!!
 
-<img src="https://api.daily.dev/devcards/v2/0g4yCRXZXxrVmk4kqsw1i.png?type=wide&r=frz" width="300" alt="Caio Calado's Dev Card" align="right"/>
+<a href="https://app.daily.dev/kainato"><img src="https://api.daily.dev/devcards/v2/bOi1brj1zKw0d9FYOBslX.png?type=wide&r=17n" width="300" alt="Caio Calado's Dev Card" align="right"/></a>
 
 Eu sou Caio Calado de Araújo, com 22 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
 Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Sistemas, com uma inclinação especial pelo Design.
@@ -11,7 +11,7 @@ Minha paixão por criar projetos e programas coisas novas me impulsionou a desen
   <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
   <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 <!--   <a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30"/></a> -->
-  <a href="https://judge.beecrowd.com/pt/profile/1082658"><img src="https://hermes.dio.me/articles/cover/3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg" height="30"/></a>
+  <a href="https://judge.beecrowd.com/pt/profile/560451"><img src="https://hermes.dio.me/articles/cover/3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg" height="30"/></a>
 </div>
 
 # 📊 Meus Status de Desenvolvimento
