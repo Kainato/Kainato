@@ -2,7 +2,7 @@
 
 <!-- <a href="https://app.daily.dev/kainato"><img src="https://api.daily.dev/devcards/v2/bOi1brj1zKw0d9FYOBslX.png?type=wide&r=17n" width="400" alt="Caio Calado's Dev Card" align="right"/></a> -->
 
-Eu sou Caio Calado de Araújo, com 22 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
+Eu sou Caio Calado de Araújo, com 23 anos de idade, atualmente desenvolver pleno em [flutter](https://flutter.dev/).
 Desde os meus 17 anos venho me dedicando aos estudos em Desenvolvimento de Sistemas, com uma inclinação especial pelo Design.
 Minha paixão por criar projetos e programas coisas novas me impulsionou a desenvolver diversos projetos pessoais e a buscar conhecimentos autônomos nesses campos.
 
