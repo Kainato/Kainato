@@ -11,7 +11,7 @@
 - 📘 <strong>Atualmente estudando</strong> na [UNIT | Universidade Tiradentes](https://www.unit.br/)
 - 🌱 <strong>Buscando expandir minha visão além do código:</strong> estudando gestão de pessoas para liderar e colaborar melhor em equipe.
 - 🎯 <strong>Objetivo:</strong> Iniciar minha trajetória profissional no exterior, contribuindo com soluções criativas e escaláveis em projetos de impacto.
-- ⚡ <strong>Curiosidade:</strong> Adoro testar ferramentas novas e costumo perder horas explorando features escondidas
+- ⚡ <strong>Curiosidade:</strong> Adoro testar ferramentas novas e costumo perder horas me aventurando em novas ideias e features
 
 ## 🛠️ Tecnologias e Ferramentas
 
