@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Sou desenvolvedor focado em criar aplicações móveis com <strong>Flutter e Appsheet</strong><br>
-  ⭐️ Sou apaixonado **por** criar soluções criativas e eficientes em constante aprendizado e sempre explorando novas tecnologias
+  ⭐️ Sou apaixonado por criar soluções criativas e eficientes em constante aprendizado e sempre explorando novas tecnologias
 </p>
 
 ## 🚀 Sobre mim
