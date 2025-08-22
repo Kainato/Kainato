@@ -40,7 +40,7 @@
   </a>
 </p>
 
-### ⚙️ GitHub Analytics
+<!-- ### ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -67,7 +67,7 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 ### 🏆 GitHub Profile Trophy
 
