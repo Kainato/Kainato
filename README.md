@@ -2,13 +2,13 @@
 
 <p align="center">
   💻 Sou desenvolvedor focado em criar aplicações móveis com <strong>Flutter e Appsheet</strong><br>
-  ⭐️ Sou apaixonado por criar soluções criativas e eficientes em constante aprendizado e sempre explorando novas tecnologias
+  ⭐️ Sou apaixonado **por** criar soluções criativas e eficientes em constante aprendizado e sempre explorando novas tecnologias
 </p>
 
 ## 🚀 Sobre mim
 
-- 🔭 <strong>Atualmente trabalhando</strong> na [Teatech]("https://github.com/MundosTech")
-- 📘 <strong>Atualmente estudando</strong> na [UNIT | Universidade Tiradentes]("https://www.unit.br/")
+- 🔭 <strong>Atualmente trabalhando</strong> na [Teatech](https://github.com/MundosTech)
+- 📘 <strong>Atualmente estudando</strong> na [UNIT | Universidade Tiradentes](https://www.unit.br/)
 - 🌱 <strong>Buscando expandir minha visão além do código:</strong> estudando gestão de pessoas para liderar e colaborar melhor em equipe.
 - 🎯 <strong>Objetivo:</strong> Iniciar minha trajetória profissional no exterior, contribuindo com soluções criativas e escaláveis em projetos de impacto.
 - ⚡ <strong>Curiosidade:</strong> Adoro testar ferramentas novas e costumo perder horas explorando features escondidas
