@@ -69,7 +69,8 @@
   </tr>
 </table> -->
 
-### 🏆 GitHub Profile Trophy
+
+<!-- ### 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a
@@ -82,3 +83,4 @@
     />
   </a>
 </p>
+-->
