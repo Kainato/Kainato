@@ -61,9 +61,9 @@ Atualmente, busco continuar evoluindo como desenvolvedor, aprofundando meus conh
 
 ---
 
-## 🔨 Projetos
+## 🔨 Sobre meus Projetos
 
-Aqui você encontrará projetos desenvolvidos para **aprender, experimentar e transformar ideias em aplicações reais**.
+Você encontrará projetos desenvolvidos para **aprender, experimentar e transformar ideias em aplicações reais**.
 
 Alguns dos meus projetos exploram:
 
