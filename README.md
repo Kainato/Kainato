@@ -1,12 +1,11 @@
 <h1 align="center">Olá, eu sou o Caio Calado 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Mobile Sênior | Flutter & Dart</strong>
+  <strong>Desenvolvedor Mobile & Fullstack | Flutter & Laravel</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor de software focado em criar aplicações móveis com Flutter e Dart,
-  sempre buscando construir soluções simples, eficientes e bem estruturadas.
+  Desenvolvedor de software focado na criação de aplicações mobile de alta performance e ecossistemas web/backend resilientes. Busco sempre construir soluções simples, eficientes, escaláveis e bem estruturadas.
 </p>
 
 <p align="center">
@@ -23,54 +22,52 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou desenvolvedor de software com experiência profissional em **desenvolvimento mobile**, tendo **Flutter e Dart** como minhas principais tecnologias.
+Sou desenvolvedor de software com sólida experiência no ecossistema mobile (**Flutter & Dart**) e em arquitetura de backend/dashboards administrativos (**Laravel & Filament PHP**).
 
-Tenho experiência com desenvolvimento de aplicações, integração com APIs, gerenciamento de estado, bancos de dados e ferramentas de desenvolvimento.
-
-Atualmente, busco continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em **arquitetura de software, testes, backend e DevOps**.
+Atuo na construção de produtos do zero à publicação nas lojas (**Google Play & App Store**), unindo **liderança técnica**, boas práticas de **UI/UX** e a **aplicação prática de IA no fluxo de desenvolvimento** para acelerar entregas com qualidade.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Habilidades
 
-### Principais
-
+### **Mobile & Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" />
 </p>
+Flutter · Dart · Provider · MobX · GetX · HTML5 · CSS3
 
-**Flutter · Dart · GetX · MobX · Provider**
-
-### Backend & Dados
-
+### **Backend & Dashboards**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php,mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase,supabase" />
 </p>
+Laravel · Filament PHP · REST APIs · MySQL · Firebase · Supabase
 
-**REST APIs · Laravel · Node.js · MySQL · Firebase · Supabase**
-
-### Ferramentas
-
+### **Publicação & Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
 </p>
+Google Play Console · Apple App Store Connect · Git · GitHub · Postman · Insomnia · Figma · AppSheet
 
-**Git · GitHub · Postman · Figma · AppSheet**
+---
+
+## 🧠 Metodologias & Soft Skills
+
+* **Metodologias & Práticas:** Metodologias Ágeis (Scrum/Kanban), Arquitetura de Software Mobile, IA Aplicada ao Desenvolvimento e Prototipagem (UI/UX).
+* **Gestão & Colaboração:** Liderança Técnica, Gestão de Projetos de TI, Comunicação Interdisciplinar (Ponte Dev/Design), Resolução Prática de Problemas e Visão End-to-End de Produto.
+* **Idiomas:** Português (Nativo) · Inglês (Básico - A2).
 
 ---
 
 ## 🔨 Sobre meus Projetos
 
-Você encontrará projetos desenvolvidos para **aprender, experimentar e transformar ideias em aplicações reais**.
+Aqui você encontrará projetos com foco em **transformar problemas reais em código escalável**:
 
-Alguns dos meus projetos exploram:
-
-* 📱 Desenvolvimento mobile com Flutter
-* 🎮 Games e ferramentas relacionadas a jogos
-* 🧩 Aplicações experimentais
-* ⚡ Automação e integração de sistemas
+* 📱 Aplicações mobile avançadas com Flutter
+* 📊 Dashboards de gestão e backends completos com Laravel e Filament
+* ⚡ Integração de APIs RESTful e baas (Firebase/Supabase)
+* 🧩 Protótipos funcionais e automações
 
 ---
 
