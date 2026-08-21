@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Caio Calado 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer | Mobile | Software Development</strong>
+  <strong>Senior Flutter Developer | Mobile | Software Development</strong>
 </p>
 
 <p align="center">
