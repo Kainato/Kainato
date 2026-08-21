@@ -41,7 +41,7 @@ Atualmente, busco continuar evoluindo como desenvolvedor, aprofundando meus conh
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-**Flutter · Dart · BLoC · Provider**
+**Flutter · Dart · GetX · MobX · Provider**
 
 ### Backend & Dados
 
