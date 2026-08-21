@@ -16,7 +16,7 @@
   <a href="https://sites.google.com/view/portifolio-caio-calado">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="mailto:caiocaladaraujo.dev@gmail.com">
+  <a href="mailto:caiocaladaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
