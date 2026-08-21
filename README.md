@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Caio Calado 👋</h1>
 
 <p align="center">
-  <strong>Senior Flutter Developer | Mobile | Software Development</strong>
+  <strong>Desenvolvedor Mobile Sênior | Flutter & Dart</strong>
 </p>
 
 <p align="center">
