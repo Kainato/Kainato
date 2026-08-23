@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Caio Calado 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Mobile & Fullstack | Flutter & Laravel</strong>
+  <strong>Desenvolvedor Flutter Sênior</strong>
 </p>
 
 <p align="center">
