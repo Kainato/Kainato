@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor de software focado na criação de aplicações mobile de alta performance e ecossistemas web/backend resilientes. Busco sempre construir soluções simples, eficientes, escaláveis e bem estruturadas.
+  Desenvolvedor de software focado na criação de aplicações mobile de alta performance e ecossistemas resilientes. Busco sempre construir soluções simples, eficientes, escaláveis e bem estruturadas.
 </p>
 
 <p align="center">
