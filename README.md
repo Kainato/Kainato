@@ -45,7 +45,7 @@
 
 ## 🚀 Projetos em Destaque & Impacto de Engenharia
 
-### 🏥 [Teatech & Plataforma Clínica Mundos](https://sites.google.com/view/portifolio-caio-calado)
+### 🏥 [Teatech & Plataforma Clínica Mundos](https://sites.google.com/view/portifolio-caio-calado/projetos/teatec-amigo-tech)
 > *Digitalização, migração e unificação de ecossistemas legados no setor de saúde.*
 - **Escopo:** Substituição de processos analógicos em papel e centralização de **3 sistemas antigos em uma única plataforma web/mobile unificada**.
 - **Atuação Técnica:** Arquitetura e desenvolvimento no ecossistema **Laravel & Filament PHP** para backend/painel web e **Flutter (GetX)** para o aplicativo corporativo das filiais.
@@ -53,7 +53,7 @@
 
 ---
 
-### 📱 [Plataforma Cross-Platform TiTa Therapy](https://sites.google.com/view/portifolio-caio-calado)
+### 📱 [Plataforma Cross-Platform TiTa Therapy](https://sites.google.com/view/portifolio-caio-calado/projetos/tita-therapy)
 > *Ecossistema de saúde utilizado diariamente por mais de 10 redes de clínicas ativas e suas filiais.*
 - **Escopo:** Construção, evolução e manutenção contínua da plataforma principal da startup (versões Mobile e Web desenvolvidas em **Flutter**).
 - **Atuação Técnica:** Estruturação da arquitetura reativa modular com **MobX e Provider**, criação do design system no **Figma** com implementação 1:1 e gestão integral da esteira de publicação na App Store e Google Play.
