@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Engenheiro de Software Mobile com mais de 6 anos de experiência no desenvolvimento, arquitetura e sustentação de ecossistemas móveis e web de alta performance. Especialista no ecossistema <b>Flutter & Dart</b> e com atuação full-stack utilizando <b>Laravel e Filament PHP</b>, atuando na liderança técnica end-to-end — da concepção e prototipagem de UI/UX no Figma à arquitetura de APIs, CI/CD e publicação nas lojas.
+<strong>Desenvolvedor Flutter Sênior</strong> com mais de <strong>6 anos de experiência</strong> liderando a arquitetura, desenvolvimento e publicação de aplicações mobile e web de alto impacto. Especialista no ecossistema <strong>Flutter/Dart</strong>, gerenciamento de estado (MobX, GetX, Provider) e integração com APIs REST, com sólido histórico em plataformas escaláveis de saúde que atendem múltiplas redes de clínicas e filiais. Atuação complementar na estruturação de backends/dashboards em Laravel/Filament PHP e colaboração direta com times de UI/UX em processos ágeis.
 </p>
 
 <p align="center">
