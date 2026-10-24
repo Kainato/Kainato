@@ -1,7 +1,7 @@
 <h1 align="center">Caio Calado de Araújo 👋</h1>
 
 <p align="center">
-  <strong>Senior Mobile Software Engineer | Flutter & Ecosystem Specialist</strong>
+  <strong>Desenvolvedor Flutter Sênior I</strong>
 </p>
 
 <p align="center">
