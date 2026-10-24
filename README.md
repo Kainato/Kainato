@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<strong>Desenvolvedor Flutter Sênior</strong> com mais de <strong>6 anos de experiência</strong> liderando a arquitetura, desenvolvimento e publicação de aplicações mobile e web de alto impacto. Especialista no ecossistema <strong>Flutter/Dart</strong>, gerenciamento de estado (MobX, GetX, Provider) e integração com APIs REST, com sólido histórico em plataformas escaláveis de saúde que atendem múltiplas redes de clínicas e filiais. Atuação complementar na estruturação de backends/dashboards em Laravel/Filament PHP e colaboração direta com times de UI/UX em processos ágeis.
+Sou <strong>Desenvolvedor</strong> com mais de <strong>6 anos de experiência</strong> liderando a arquitetura, desenvolvimento e publicação de aplicações mobile e web de alto impacto. Especialista no ecossistema <strong>Flutter/Dart</strong>, gerenciamento de estado (MobX, GetX, Provider) e integração com APIs REST, com sólido histórico em plataformas escaláveis de saúde que atendem múltiplas redes de clínicas e filiais. Atuação complementar na estruturação de backends/dashboards em Laravel/Filament PHP e colaboração direta com times de UI/UX em processos ágeis.
 </p>
 
 <p align="center">
